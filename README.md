@@ -31,6 +31,17 @@ F-16 Ground Vibration Benchmark Test
 - https://sites.google.com/view/nonlinear-benchmark/benchmarks/f-16-gvt?authuser=0 <br>
 
 
+## Training Summary
+Total Models Trained: 6000 (500 per model parameter set)<br>
+<br>
+Total Time Training: 336 Hours, 23 Minutes, 29 seconds<br>
+Average Time Training: 3 minutes, 22 seconds <br>
+<br>
+Total Epochs: 281,838<br>
+Average Epochs Per Model: 46.97<br>
+<br>
+
+
 ## Model Parameters
 Model: Sequential<br>
 Regression: Linear<br>
@@ -62,19 +73,6 @@ Epochs = 250<br>
 ## Variance in MAE Across Activation
 
 ![Image4](mae_activation.png)
-
-## Training Summary
-Total Models Trained: 6000 (500 per model parameter set)<br>
-<br>
-Total Time Training: 336 Hours, 23 Minutes, 29 seconds<br>
-Average Time Training: 3 minutes, 22 seconds <br>
-<br>
-Total Epochs: 281,838<br>
-Average Epochs Per Model: 46.97<br>
-<br>
-
-
-
 
 
 ### Primary Software Platforms: 
