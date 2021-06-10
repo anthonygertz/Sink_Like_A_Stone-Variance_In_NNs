@@ -49,18 +49,26 @@ Epochs = 250<br>
 
 ## Variance in Epochs Across Density
 <br>
+
 ![Image](https://github.com/anthonygertz/Sink_Like_A_Stone-Variance_In_RNNs/blob/main/epochs_density.png)
 
 
 ## Variance in Epochs Across Activation
 
 
+![Image2]
+
 
 ## Variance in MAE Across Density
 
 
+![Image3]
+
 
 ## Variance in MAE Across Activation
+
+
+![Image4]
 
 
 ## Training Summary
