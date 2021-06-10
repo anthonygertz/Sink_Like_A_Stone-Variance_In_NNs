@@ -48,28 +48,20 @@ Epochs = 250<br>
 
 
 ## Variance in Epochs Across Density
-<br>
 
 ![Image](https://github.com/anthonygertz/Sink_Like_A_Stone-Variance_In_RNNs/blob/main/epochs_density.png)
 
-
 ## Variance in Epochs Across Activation
 
-
-![Image2]
-
+![Image2](epochs_activation.png)
 
 ## Variance in MAE Across Density
 
-
-![Image3]
-
+![Image3](mae_density.png)
 
 ## Variance in MAE Across Activation
 
-
-![Image4]
-
+![Image4](mae_activation.png)
 
 ## Training Summary
 Total Models Trained: 6000 (500 per model parameter set)<br>
