@@ -48,7 +48,12 @@ Epochs = 250<br>
 <br>
 
 
-##Training Summary
+## Image 1
+<br>
+![IMAGE1](epochs_density.png)
+
+
+## Training Summary
 Total Models Trained: 6000 (500 per model parameter set)<br>
 <br>
 Total Time Training: 336 Hours, 23 Minutes, 29 seconds<br>
