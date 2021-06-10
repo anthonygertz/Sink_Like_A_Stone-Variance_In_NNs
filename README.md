@@ -49,7 +49,7 @@ Epochs = 250<br>
 
 ## Variance in Epochs Across Density
 <br>
-![Image](epochs_density.png)
+![Image](https://github.com/anthonygertz/Sink_Like_A_Stone-Variance_In_RNNs/blob/main/epochs_density.png)
 
 
 ## Variance in Epochs Across Activation
