@@ -20,7 +20,7 @@ How widely does Neural Network training randomize model fitting over repeated it
 4.)    Multi-GPU Strategies (tf.distributed), <br>
 4.)    Linux/Unix Environment Command Line Interface, <br>
 5.)    Remote Coding Environments, <br>
-6.)    Docker, <br>
+6.)    Docker Container Environment <br>
 <br>
 
 
@@ -49,7 +49,7 @@ Epochs = 250<br>
 
 ## Variance in Epochs Across Density
 <br>
-![ScreenShot](epochs_density.png)
+![Image](epochs_density.png)
 
 
 ## Variance in Epochs Across Activation
