@@ -45,12 +45,22 @@ Loss = Mean Squared Error<br>
 Optimizer = Adam<br>
 Batch Size = 64<br>
 Epochs = 250<br>
-<br>
 
 
-## Image 1
+## Variance in Epochs Across Density
 <br>
-![IMAGE1](epochs_density.png)
+![ScreenShot](epochs_density.png)
+
+
+## Variance in Epochs Across Activation
+
+
+
+## Variance in MAE Across Density
+
+
+
+## Variance in MAE Across Activation
 
 
 ## Training Summary
